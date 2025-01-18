@@ -25,10 +25,6 @@ Restaurant Menu Viewer allows users to:
 - **API**: Google Maps API (optional)
 - **Libraries**: `mysqlcppconn` for MySQL connectivity
 
-## Setup Instructions
-1. Install MySQL version 8.0.35 or higher.
-2. Follow [Setup Guide](docs/setup-guide.md) to configure the database and project.
-
 ## Usage
 1. Run the application using:
    ```bash
