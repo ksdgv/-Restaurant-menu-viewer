@@ -1,0 +1,417 @@
+H01,KGN Xprs,Crispy chicken,Chicken Masala (gravy),,Cool Drinks (500ml),380,372,,75
+H01,KGN Xprs,Chicken 65,Chicken Rara (Kgn special),,Cool drinks (250ml),370,449,,49
+H01,KGN Xprs,Chicken Manchurian dry,Tandoori Chicken,,Masala Tea ,340,320,,39
+H01,KGN Xprs,Chilli Chicken dry,Chicken Tikka masala,,Cool Drinks (500ml),350,430,,75
+H01,KGN Xprs,Schezwan Chicken,Egg Biryani,,Cool drinks (250ml),380,250,,49
+H01,KGN Xprs,Lemon Chicken,Chicken Bhuna masala,,Masala Tea ,375,340,,39
+H01,KGN Xprs,Chicken Lollipop(6 pcs),Chicken Reshmi Kebab,,,310,380,,75
+H01,KGN Xprs,Black pepper Chicken,Chicken Kolhapuri,,,375,400,,49
+H01,KGN Xprs,Paneer 65,Chicken Handi,,,340,499,,39
+H01,KGN Xprs,Paneer Chilli dry,Chicken Angara Kebab,,,326,380,,
+H01,KGN Xprs,Veg manchurian dry,Chicken Dhaniya Adraki,,,295,370,,
+H01,KGN Xprs,Baby Cron Chilli dry,Chicken Tangdi Kebab,,,310,400,,
+H01,KGN Xprs,Paneer Manchurian dry,Chicken Dum Biryani,,,310,320,,
+H01,KGN Xprs,,Chicken Tikka Biryani,,,,380,,
+H01,KGN Xprs,,Chicken Kadai,,,,410,,
+H02,Seven -11,Veg Tandoori platter,Veg Kolhapuri,Mix Fruit Plate,Rose Milkshake,460,220,90,130
+H02,Seven -11,Jain Paneer Chilli dru,Veg Maratha,Watermelon Plate,Vanilla Milkshake,220,250,90,130
+H02,Seven -11,Jain Paneer Manchurian dry,Jain Veg Makhanwala,Fruit salad,Banana Milkshake,230,240,90,130
+H02,Seven -11,Paneer Tikka dry,Paneer Butter Masala,Jelly ,Chiku Milkshake,230,240,110,139
+H02,Seven -11,Paneer Gobi dry,Lasuni Palak Paneer,Fruit salad with Jelly,Apple Milkshake,230,240,120,150
+H02,Seven -11,Jain Baby corn Chilli dry,Mushroom Masala,Cheese Cherry Pineapple,Pineapple Milkshake,230,240,160,140
+H02,Seven -11,Pudina Gobi,Dal Khichdi,Jelly with Ice cream,Chocolate Milkshake,200,190,90,140
+H02,Seven -11,Tandoori Aloo,Tadka Dal Khichdi,,Strawberry Milkshake,200,200,,140
+H02,Seven -11,Gobi Tikka Dry,Palak Khichdi,,Mango MIlkshake,200,200,,150
+H02,Seven -11,Baby Corn Tikka ,Jeera Rice (Half),,Sitaphal MIlkshake,230,110,,140
+H02,Seven -11,Mushroom Tikka ,Tomato Rice,,Kaju Milkshake,200,190,,190
+H02,Seven -11,Paneer Sultana ,Lemon Rice ,,Anjeer Milkshake,230,180,,210
+H02,Seven -11,Paneer Malwani ,Veg Nawabi Biryani,,Badam Milkshake,230,230,,210
+H02,Seven -11,Hara Bhara Kebab,Veg Dum Biryani ,,Pista Milkshake,230,240,,190
+H02,Seven -11,Mix Veg Chinese Starter,Mushroom Biryani ,,Sweet Lassi ,410,230,,120
+H03,Annapurna Pure Veg,Veg Manchurian ,Chana Masala,Boondi Raita,Soft Drinks ,179,139,69,70
+H03,Annapurna Pure Veg,Paneer Chilli,Mixed Veg,,,199,139,,
+H03,Annapurna Pure Veg,Paneer Chilli Gravy,Veg Tawa,,,199,199,,
+H03,Annapurna Pure Veg,,Veg Kadai,,,,189,,
+H03,Annapurna Pure Veg,,Veg Handi,,,,209,,
+H03,Annapurna Pure Veg,,Veg Bhuna ,,,,189,,
+H03,Annapurna Pure Veg,,Veg Jaipuri,,,,189,,
+H03,Annapurna Pure Veg,,Veg Kheema,,,,189,,
+H03,Annapurna Pure Veg,,Veg Maratha,,,,199,,
+H03,Annapurna Pure Veg,,Veg Kolhapuri,,,,139,,
+H03,Annapurna Pure Veg,,Veg Lajawab,,,,229,,
+H03,Annapurna Pure Veg,,Veg Do Pyaza,,,,189,,
+H03,Annapurna Pure Veg,,Veg Kofta Curry,,,,199,,
+H03,Annapurna Pure Veg,,Veg Makhanwala,,,,189,,
+H03,Annapurna Pure Veg,,Veg Lasooni,,,,199,,
+H04,Hotel Malabar,Chicken Tikka,Mutton Biryani,,Soft Drinks ,350,530,,110
+H04,Hotel Malabar,Chicken Masala Lollipop,Chicken Tikka Biryani,,,410,460,,
+H04,Hotel Malabar,Chicken 65,Chicken Leg Biryani,,,380,499,,
+H04,Hotel Malabar,Chicken Lollipop,Egg Biryani,,,340,350,,
+H04,Hotel Malabar,Chilli Chicken,Egg Hyderabadi,,,380,390,,
+H04,Hotel Malabar,Chicken Manchurian,Chicken Dum Biryani,,,380,380,,
+H04,Hotel Malabar,Crispy Chicken,Prawns Biryani,,,420,580,,
+H04,Hotel Malabar,Chicken Pakoda,Surmai Biryani,,,320,580,,
+H04,Hotel Malabar,Chicken Pepper Dry,Egg Bhurjee,,,380,160,,
+H04,Hotel Malabar,Chicken Tandoori,Egg Kolhapuri,,,465,299,,
+H04,Hotel Malabar,Chicken Leg,Egg Masala,,,260,240,,
+H04,Hotel Malabar,Bangda Fry,Egg Fried Rice,,,200,250,,
+H04,Hotel Malabar,Surmai Fry,Egg Schezwan Noodles,,,499,290,,
+H04,Hotel Malabar,Paplet Fry,Mutton Sukha,,,520,485,,
+H04,Hotel Malabar,Prawns Fry,Mutton Muglai,,,480,550,,
+H05,Master Chef,Chilli Chicken ,Chicken Kadai,,,380,640,,
+H05,Master Chef,Chicken Tikka,Chicken Masala,,,350,380,,
+H05,Master Chef,Chicken Pakora,Chicken Kolhapuri,,,320,510,,
+H05,Master Chef,Chicken Lollipop,Chicken Kheema Masala,,,360,320,,
+H05,Master Chef,Chicken Dry Fry,Chciken Mughlai,,,380,410,,
+H05,Master Chef,Chicken Manchurian,Chicken Do Pyaza,,,380,420,,
+H05,Master Chef,Chicken Crispy,Chicken Sukka,,,420,380,,
+H05,Master Chef,Chicken 65,Mutton Kadai,,,380,820,,
+H05,Master Chef,Chicken Pepper Dry,Mutton Handi,,,390,1399,,
+H05,Master Chef,Chicken Leg Tandoori,Chicken Handi,,,290,580,,
+H05,Master Chef,Mutton 65,Chicken Thali,,,699,440,,
+H05,Master Chef,Mutton Dry,Mutton Thali,,,699,700,,
+H05,Master Chef,Mutton Chilli,Surmai Thali,,,699,700,,
+H05,Master Chef,Mutton Pepper Dry,Paplet Thali,,,699,640,,
+H05,Master Chef,,Prawns Thali ,,,,420,,
+H06,Jijai Coffee house,Chicken Hot & Sour Soup,Chicken Adranki,,,140,260,,
+H06,Jijai Coffee house,Chicken Manchow Soup,Chicken Masala,,,140,260,,
+H06,Jijai Coffee house,Chicken Clear Soup,Chicken Kolhapuri,,,140,260,,
+H06,Jijai Coffee house,Chicken Sweet corn Soup ,Chicken Sukka,,,140,260,,
+H06,Jijai Coffee house,Chicken Lollipop,Chicken Do Pyaza,,,190,260,,
+H06,Jijai Coffee house,Chicken Chinese Bhel,Chicken Kheema Masala,,,210,260,,
+H06,Jijai Coffee house,Chicken 65,Chicken Kadai,,,210,260,,
+H06,Jijai Coffee house,Chicken Crispy,Chicken Patiala,,,210,280,,
+H06,Jijai Coffee house,Chicken Chilli Dry,Chicken Tikka Masala,,,220,280,,
+H06,Jijai Coffee house,Chicken Chilli Gravy,Chicken Rara,,,230,280,,
+H06,Jijai Coffee house,Chicken Manchurian Dry,Chicken Handi,,,220,420,,
+H06,Jijai Coffee house,Boiled Eggs,Chicken Malvani,,,50,440,,
+H06,Jijai Coffee house,Double Omelette ,Murgh Musallam,,,90,460,,
+H06,Jijai Coffee house,Egg Double half fry,Murgh Nawabi,,,90,460,,
+H06,Jijai Coffee house,,Chicken Tandoori,,,,360,,
+H07,Carat Lounge & Bar,Chicken Pahadi,Murg makhanwala,Fruit salad with Ice cream,Milkshakes ,445,435,210,195
+H07,Carat Lounge & Bar,Chicken Lazi kebab,Tandoori Murg Masala,Vanilla Ice cream,,455,445,185,
+H07,Carat Lounge & Bar,Chicken Angare,Adraki Murg,Chocolate Ice cream,,445,425,185,
+H07,Carat Lounge & Bar,Chicken Tandoori,Chicken Handi,Mango Ice cream,,465,435,185,
+H07,Carat Lounge & Bar,Dhaniya Murg Tikka,Chicken Rara,Strawberry Ice cream,,435,425,185,
+H07,Carat Lounge & Bar,Chicken Sukka,Chicken Bhuna Masala,Pista Ice cream,,375,435,185,
+H07,Carat Lounge & Bar,Dragon Chicken ,Mutton Rogan Josh,Malai Kulfi,,395,525,200,
+H07,Carat Lounge & Bar,Chicken Chilli Dry,Kadai Mutton,Gulab Jamun,,395,515,160,
+H07,Carat Lounge & Bar,Murg Malai kebab,Fish Goan Curry,Fruit Custard,,435,620,205,
+H07,Carat Lounge & Bar,Carat Special Kebab,Methi Palak Murg,Sizzling Brownie,,495,425,315,
+H07,Carat Lounge & Bar,Mutton Sukka,Mutton Kheema,Dark Choco with Peanut butter,,535,525,215,
+H07,Carat Lounge & Bar,Prawns Sukka,Nali Nihari,Mago Kulfi,,625,545,200,
+H07,Carat Lounge & Bar,Chicken Chapli Kebab,Lal Maas,Pista Kulfi,,435,525,200,
+H07,Carat Lounge & Bar,Chicken Kathi roll,Chicken Hakka Noodles ,Gulab Jamun with Ice cream,,350,350,255,
+H07,Carat Lounge & Bar,Chicken Tangdi Kebab,Chicken Schezwan Noodles ,Moon dal Halwa,,455,260,225,
+H08,Hotel Al Zaika,Chicken Dry fry,Chicken Thali,,,410,470,,
+H08,Hotel Al Zaika,Chicken 65,Egg Thali,,,380,345,,
+H08,Hotel Al Zaika,Chicken Lollipop,Mutton Thali,,,360,750,,
+H08,Hotel Al Zaika,Chicken Chilli,Chicken Sukka,,,380,399,,
+H08,Hotel Al Zaika,Chicken Masala Lollipop with gravy,Chicken Angara,,,460,580,,
+H08,Hotel Al Zaika,Chicken Crispy,Chicken Adranki,,,540,580,,
+H08,Hotel Al Zaika,Chicken Manchurian,Chicken Do Pyaza,,,380,420,,
+H08,Hotel Al Zaika,Chicken Pakoda,Chicken Handi,,,380,610,,
+H08,Hotel Al Zaika,Chicken Pepper dry,Chicken Kadai,,,400,699,,
+H08,Hotel Al Zaika,Chicken Tikka,Chicken Lehsuni,,,380,570,,
+H08,Hotel Al Zaika,Chicken Tandoori,Chicken Kolhapuri,,,540,555,,
+H08,Hotel Al Zaika,Chicken Leg Tandoori,Chicken Maratha,,,300,580,,
+H08,Hotel Al Zaika,,Chicken Masala,,,,410,,
+H08,Hotel Al Zaika,,Chicken Tikka Masala,,,,580,,
+H08,Hotel Al Zaika,,Chicken Mughlai,,,,480,,
+H09,Hotel Shiv Prasad,Chicken Lemon Soup,Murgh Handi,,Soda,169,419,,39
+H09,Hotel Shiv Prasad,Chicken Manchow Soup,Tandoori Chicken Handi,,Jal Jeera Soda,169,409,,99
+H09,Hotel Shiv Prasad,Prawns manchow Soup,Shivprasad Special Chicken,,Jal Jeera Water,179,449,,89
+H09,Hotel Shiv Prasad,Chicken Tom Yum Soup,Murgh Musallam,,Fresh Lime Water,169,499,,69
+H09,Hotel Shiv Prasad,Chicken Talumein Soup,Chicken Kala Handi,,Fresh Lime Soda,169,419,,89
+H09,Hotel Shiv Prasad,Chicken Aalani Soup,Chicken Maratha,,Milkshakes,169,399,,169
+H09,Hotel Shiv Prasad,Mutton Aalani Soup,Chicken Tikka Masala,,Real Juice,179,399,,99
+H09,Hotel Shiv Prasad,Chicken Lung fung Soup,Chicken Lasooni,,Cold Coffee,149,399,,169
+H09,Hotel Shiv Prasad,Dragon Chicken,Chicken Adraki,,Ginger Water,319,399,,99
+H09,Hotel Shiv Prasad,Chicken 65,Chicken Mughlai,,Butter Milk,309,399,,99
+H09,Hotel Shiv Prasad,BBQ Chicken ,Chicken Chettinad,,Tea,319,399,,39
+H09,Hotel Shiv Prasad,Non Veg Platter,Chicken Rogan Josh,,Black tea ,999,399,,29
+H09,Hotel Shiv Prasad,Makran Tangdi,Chicken Mirchi Masala,,Masala Tea,329,399,,49
+H09,Hotel Shiv Prasad,Chicken Pudina Tikka,Chicken Lapeta,,Hot Coffee,319,409,,49
+H09,Hotel Shiv Prasad,Chicken Hungama,Goan Curry Prawns,,Black Coffee,319,499,,59
+H10,Hotel Gypsy,Chicken Chilli Dry,Chicken Handi,,,249,349,,
+H10,Hotel Gypsy,Chicken 65,Chicken Malwani Handi,,,249,379,,
+H10,Hotel Gypsy,Chicken Crispy,Murg Masallam,,,249,449,,
+H10,Hotel Gypsy,Lemon Chilli Chicken,Chicken Afgani Masala,,,249,469,,
+H10,Hotel Gypsy,Chicken Lollipop dry,Chicken Dahi Kali Miri,,,299,349,,
+H10,Hotel Gypsy,Chicken Tandoori,Chicken Kolhapuri,,,299,349,,
+H10,Hotel Gypsy,Chicken Afgani Tandoori,Chicken Ghee roast,,,349,349,,
+H10,Hotel Gypsy,Chicken Rojali kebab,Chicken Tandoori Biryani,,,499,449,,
+H10,Hotel Gypsy,Chicken Wangali Kebab,Chicken Tikka Masala,,,399,349,,
+H10,Hotel Gypsy,Chicken Soldger Kebab,Chicken Achari Masala,,,399,349,,
+H10,Hotel Gypsy,Chicken Tiranga Kebab,Chicken Chettinad,,,359,319,,
+H10,Hotel Gypsy,Chicken Ujala Kebab,Chicken Fried Rice,,,349,229,,
+H10,Hotel Gypsy,Chicken Pahadi Kebab,Chicken Biryani,,,329,299,,
+H10,Hotel Gypsy,Chicken Sholy Kebab,Chicken Hakka Noodles,,,349,229,,
+H10,Hotel Gypsy,Chicken Peri Peri Tikka,Egg Hakka Noodles,,,349,199,,
+H11,Angaar,Black Pepper Chicken,Egg Fried Rice,,,329,250,,
+H11,Angaar,Chicken Manchurian,Chicken Fried Rice,,,360,290,,
+H11,Angaar,Chicken Shanghai,Chicken Schezwan Fried rice,,,349,300,,
+H11,Angaar,Chilli Chicken ,Chicken Thai Fried rice,,,349,300,,
+H11,Angaar,Crackling Spanish Chicken,Chilli Chicken Garlic Fried rice,,,329,290,,
+H11,Angaar,Crispy Chicken,Hong Kong Chicken Fried rice,,,329,300,,
+H11,Angaar,Hot Dragon Chicken,Chicken  Hakka Noodles,,,329,340,,
+H11,Angaar,Sliced Oyster Sauce Chicken,Murgh Lucknowi Biryani,,,329,300,,
+H11,Angaar,Murgh Dum Kebab,Jhinga Dum Biryani,,,359,550,,
+H11,Angaar,Murgh Kandhari Kebab,Prawns Fried rice,,,339,420,,
+H11,Angaar,Murgh Chakori Kebab,Murgh Musallam,,,339,550,,
+H11,Angaar,Murgh Dahi Lehsuni,Murgh Tikka Masala,,,339,419,,
+H11,Angaar,Murgh Kali Mirch,Reshmi Tikka Masala,,,339,419,,
+H11,Angaar,Murgh Nizami Tikka,Murgh Kalmi Masala,,,339,419,,
+H11,Angaar,Tiranga Kebab,Chef Special Chicken,,,349,419,,
+H12,Desi Dera,Burmese Prawns,Chicken Awadhi Biryani,,,420,350,,
+H12,Desi Dera,Chicken 65,Chicken Dum Biryani,,,320,350,,
+H12,Desi Dera,Chicken Chilli,Mutton Awadhi Biryani,,,320,430,,
+H12,Desi Dera,Achaari Lapeta Murgh,Mutton Dum Biryani ,,,370,430,,
+H12,Desi Dera,Burmas Prawn,Hakka Noodles Egg,,,420,220,,
+H12,Desi Dera,Chicken Lollipop,Hakka Noodles Chicken,,,320,280,,
+H12,Desi Dera,Chicken Tikka,Egg Fried Rice,,,370,220,,
+H12,Desi Dera,Fish Kabiraji,Chicke Fried rice,,,480,280,,
+H12,Desi Dera,Fish Malvani Tikka,Chicken Handi,,,480,380,,
+H12,Desi Dera,Ghosht ka Shorba,Murgh Musallam(Half),,,240,360,,
+H12,Desi Dera,Kerala Pepper Chicken ,Mutton Do Pyaza,,,360,480,,
+H12,Desi Dera,Malvani Chicken Tikka,Laal Maas,,,370,480,,
+H12,Desi Dera,Murgh Kalimiri Kebab,Butter Chicken,,,370,390,,
+H12,Desi Dera,Patrani Macchi,Egg Masala,,,480,290,,
+H12,Desi Dera,Prawns Koliwada,Chicken Schezwan Noodles,,,480,300,,
+H13,Spice Roots,Trio Pepper Chicken,Chicken Kadai,Gajar Halwa,,390,380,150,
+H13,Spice Roots,Wok Fry Chicken,Murgh Musallam,Mataka Kulfi,,390,570,150,
+H13,Spice Roots,Chicken Lollipop,Black Chicken Curry,Kasata Ice cream,,325,420,150,
+H13,Spice Roots,Spiced Root Chicken,Bhuna Chicken,Gulab Jamun,,390,385,150,
+H13,Spice Roots,Smoke Red Chilli Prawns,Champaran Mutton Handi,Honey Fried Noodles with Ice cream,,540,540,170,
+H13,Spice Roots,Butter Garlic Prawns,Chicken Rara,Ice cream (single scoop),,540,420,75,
+H13,Spice Roots,Basa in Chilli Lime,Chicken Matka Handi,Caramel Custard,,480,420,180,
+H13,Spice Roots,Sweet & Sour Fish,Chicken Tikka Masala,,,480,420,,
+H13,Spice Roots,Chilli Chicken Dry,Chicken Biryani,,,390,385,,
+H13,Spice Roots,Chicken 65,Mutton Biryani,,,390,500,,
+H13,Spice Roots,Chicken Spring Roll,Chicken Tikka Biryani,,,360,420,,
+H13,Spice Roots,Chicken wings in BBQ Sauce,Prawns Biryani,,,360,400,,
+H13,Spice Roots,Crispy Chilli Garlic Fish,Chicken Thai Chilli Fried rice,,,480,300,,
+H13,Spice Roots,Prawns Tempura,Chicken Hakka Noodles,,,540,300,,
+H13,Spice Roots,Crispy Fried Chicken with Chips,Prawns Hakka Noodles,,,390,340,,
+H14,Hangout - Family Resto,Murg Angara Kebab,Seafood Fried Rice,,Softdrinks (250ml),430,540,,39
+H14,Hangout - Family Resto,Murg Achari Kebab,Egg Fried Rice,,,430,300,,
+H14,Hangout - Family Resto,Murg Sholy Kebab,Egg Schezwan Fried Rice,,,460,540,,
+H14,Hangout - Family Resto,Murg Reshmi Kebab,Chicken Singapore Noodles,,,460,360,,
+H14,Hangout - Family Resto,Murg Malai Kebab,Chicken American Noodles,,,460,350,,
+H14,Hangout - Family Resto,Murg Kalimiri Kebab,Mutton Kadai,,,430,550,,
+H14,Hangout - Family Resto,Murg Banjara Kebab,Mutton Bhuna,,,430,550,,
+H14,Hangout - Family Resto,Murg Rozali Kebab,Mutton Rara,,,460,575,,
+H14,Hangout - Family Resto,Murg Kami Kebab,Mutton Tawa,,,460,550,,
+H14,Hangout - Family Resto,Chicken Chinese Platter,Mutton kheema ,,,1375,640,,
+H14,Hangout - Family Resto,Murg Tangdi kebab,Chicken Biryani,,,475,460,,
+H14,Hangout - Family Resto,Murg Pudina Kebab,Prawns Biryani,,,425,510,,
+H14,Hangout - Family Resto,Murg Matka Kebab,Signature Special Mutton Biryani,,,560,690,,
+H14,Hangout - Family Resto,Murg Seekh Kebab,Egg Bhurji,,,425,200,,
+H14,Hangout - Family Resto,Murg Tikka,Murgh Do Pyaza,,,450,310,,
+H15,The Rice Culture,Chicken Pakoda,Chicken Tikka Pulao,Salted Caramel Chocolate Tarts,Cold Drinks,289,299,199,69
+H15,The Rice Culture,Chicken Pepper Dry,Prawns Pulao,Nutty Belgian Chocolate Ice cream,Masala Chaas,289,319,189,69
+H15,The Rice Culture,Chicken Reshmi,Chicken Pulao,Gulab Jamun,Patiala Lassi,309,289,149,139
+H15,The Rice Culture,Chicken Sukka,Chicken Dum Biryani,,Mango Lassi,279,329,,109
+H15,The Rice Culture,Chicken Tikka,Chicken Tikka Biryani,,Gulkhand Lassi,299,349,,109
+H15,The Rice Culture,Mohali Kebab,Chicken Tandoori Biryani,,Rose Milk,379,369,,89
+H15,The Rice Culture,Peri Peri Chicken Tikka,Andhra Chicken Curry,,Blueberry Lassi,309,369,,109
+H15,The Rice Culture,Basil Chicken Tikka,Butter Chicken ,,Butter Milk,319,379,,59
+H15,The Rice Culture,Kasturi Chicken Kebab,Chicken kolhapuri Handi,,Rose Lassi,309,349,,109
+H15,The Rice Culture,Chicken Malai Kebab,Chicken Methi Masala,,Lassi ,309,369,,89
+H15,The Rice Culture,Chicken Lasuni Kebab,Chicken Kadai,,,309,349,,
+H15,The Rice Culture,Chicken Tandoori,Chicken Hyderabadi,,,459,359,,
+H15,The Rice Culture,Chicken Methi Kebab,Chicken Kheema Masala,,,309,369,,
+H15,The Rice Culture,Chicken Cheesy Kebab,Chicken Maratha,,,369,369,,
+H15,The Rice Culture,Chicken kalimiri Tikka,Chicken Patiyala,,,329,379,,
+H16,Hotel Kiran,Tandoori Chicken Haif,Paneer Bhurji,160,130,,,,
+H16,Hotel Kiran,C!vcken Tangadl Kabab (2 Peas),Shahi Paneer,170,130,,,,
+H16,Hotel Kiran,Butter Nan / Butter Paratha,Paneer Korma,30,130,,,,
+H16,Hotel Kiran,Plain Nan / Plaan Paratha,Paneer Butter Masala,20,130,,,,
+H16,Hotel Kiran,Chicken Lollipop Masala Dry / Graw,Paneer Kadai,120,140,,,,
+H16,Hotel Kiran,Chicken Lollipop,Paneer Masala,110,100,,,,
+H16,Hotel Kiran,Chicken Chilli / Chicken Scherwan,Butter Chicken Full,110,360,,,,
+H16,Hotel Kiran,Chicken Manchurian,Butter Chicken Half,110,190,,,,
+H16,Hotel Kiran,Chicken 65,Butter Chicken Plate,120,120,,,,
+H16,Hotel Kiran,,Chicken Handi Full,,360,,,,
+H16,Hotel Kiran,,Chicken Handi Half,,190,,,,
+H17,Abhishek Veg Restaurant,Hara Bhara kabab,Dal Fry,Single Sundae,Kesar Faluda,235,165,145,195
+H17,Abhishek Veg Restaurant,Pudina Gobi,Babycorn Palak ,Vanilla Sundae,Special Faluda,265,235,165,205
+H17,Abhishek Veg Restaurant,Mushroom Kali Mirch,Babycorn Capsicum Kadai,Chocolate Sundae,Kaju Milk Shake,255,250,170,225
+H17,Abhishek Veg Restaurant,Paneer Cheese Seekh Kabab,Bhendi Fry,Volcano,Chikku Pulp,325,213,225,150
+H17,Abhishek Veg Restaurant,Baby Corn Tikka,Bhendi Masala,My Dream,Rose Milk Shake,260,213,215,155
+H17,Abhishek Veg Restaurant,Mushroom Tikka,Veg Kurma,Banana Split,Oreo Milk Shake,255,225,215,180
+H17,Abhishek Veg Restaurant,Panner Tikka,Veg Zatpati ,Pineapple Punch,Cold Coffee,265,250,215,140
+H17,Abhishek Veg Restaurant,Paneer Ajwani Tikka,Veg Maratha,Rocco Borroco,Lassi ,270,263,240,113
+H17,Abhishek Veg Restaurant,Paneer Sultana,Veg Basket ,Kulfi (Malai),Strawberry Lassi,275,255,120,125
+H17,Abhishek Veg Restaurant,Paneer Malwani,Veg Handi ,Gadbad,Fresh Lime Water,275,255,225,55
+H17,Abhishek Veg Restaurant,Panner Kalimirch ,Veg Kadai,Cramel Custard,,275,250,125,
+H17,Abhishek Veg Restaurant,Paneer Achari Tikka,Kaju Masala,Golden Beauty,,275,290,225,
+H17,Abhishek Veg Restaurant,Tandoori Platter,Mix Veg ,Triple Sundae,,499,235,220,
+H17,Abhishek Veg Restaurant,Paneer Malai Tikka(Sweet),,Butter Scotch Sundae,,315,,175,
+H18,Atithi,Chinese Veg Crispy ,Veg Banjara Masala,Sizzling Brownie,210,230,200,,
+H18,Atithi,Babycorn Crispy,Veg Chilly Milli,Butter Sctoch,210,230,150,,
+H18,Atithi,Prawns Chilly,Veg Tawa,Malai Kulfi,430,230,120,,
+H18,Atithi,Prawns 65,Dal Fry,Paan Kulfi,430,130,150,,
+H18,Atithi,Chicken Lollipop,Murg Lassuni,Pista Kulfi,190,359,150,,
+H18,Atithi,Chicken Tai Fai,Murg Sukha,Dry Fruite Kulfi,290,359,150,,
+H18,Atithi,Paneer Pepper Tikka,Chicken Junglee,Mango Kulfi,270,359,150,,
+H18,Atithi,Tandoori Baby Corn,Mutton Masala,Fruit Salas with Ice-Cream ,250,340,170,,
+H18,Atithi,Tandoori Lollipop,Paneer Biriyani ,,300,250,,,
+H18,Atithi,Chicken Kabab,,,330,,,,
+H19,Vardayini Pure Veg,Paneer Shabnam Tikka,Paneer Laziz,Gulab Jamun,Fresh Lime Water,210,240,60,50
+H19,Vardayini Pure Veg,Malai Panner Tikka,Paneer Mutter,Gulab Jamun With Rabri Or Ice-Cream,Soda,200,220,100,60
+H19,Vardayini Pure Veg,Paneer Seekh Kabab,Paneer Balti,Shahi TUkda,Buttermilk Plain,200,280,100,50
+H19,Vardayini Pure Veg,Afghani Paneer Kabab,Kadai Paneer ,Sizzl:ng Brown!e,Buttermllk Masala,200,230,160,60
+H19,Vardayini Pure Veg,Veg Angara kabab,Methi Mushroom Paneer,Ice Cream,Mango Lassi,170,250,90,90
+H19,Vardayini Pure Veg,Bharwan Aloo,Paneer Lahori,,Soft Drink,180,240,,40
+H19,Vardayini Pure Veg,Tandoori Gobi,Paneer Pasanda,,,150,270,,
+H19,Vardayini Pure Veg,Paneer Achari Kabab,Veg Hyderabad Handi,,,200,220,,
+H19,Vardayini Pure Veg,Paneer Pepper Kabab,Tawa Mushroom ,,,200,260,,
+H19,Vardayini Pure Veg,Mushroom Tikka,,,,170,,,
+H19,Vardayini Pure Veg,Potato Chilly,,,,160,,,
+H19,Vardayini Pure Veg,Veg Spring Roll,,,,170,,,
+H20,Aditya Pure Veg,Veg Crispy,Schezwan Fried Rice,Gulab-Jamun (3 pcs),App!e Shake,160,150,50,80
+H20,Aditya Pure Veg,Paneer Crispy,Hong.Kong Fried Rice,Shrikhand,Mix Fruit Milk Shake,180,150,60,80
+H20,Aditya Pure Veg,Baby Corn Crispy,Mushroom Fried Rice,Amrakhand,Vanilla MRk Shake,160,150,60,80
+H20,Aditya Pure Veg,Paneer Pakoda,Singapuri Fried Rice,Gulab-Jamun with Ice-Cream,Chocolate Milk Shake,140,150,70,70
+H20,Aditya Pure Veg,Chinese Bhel,Veg. Manchurian Rice,Fruit Custed,Strawberry Milk Shake,120,180,60,70
+H20,Aditya Pure Veg,Baby Corn Chilly Dry,Trippte Schezwan Fried Rice,Fruit Custerd with ice-Cream,Rose Milk Shake,160,190,80,70
+H20,Aditya Pure Veg,Mix Chilly Dry,Dal Khichadi,,Cold Coffee,180,140,,60
+H20,Aditya Pure Veg,Paneer 65,Plain palak,,Banana Milk Shake,180,150,,60
+H20,Aditya Pure Veg,Veg 65,Peas Palak,,Chocolate Scoop,150,170,,30
+H20,Aditya Pure Veg,Gobi 65,Palak Corn,,Choco Bar,150,170,,15
+H20,Aditya Pure Veg,Paneer Banjara Kabab,Paneer Masala Medium,,Chocolate Cone,180,200,,40
+H20,Aditya Pure Veg,Paneer Pahadi kabab,Mix.Veg Jain,,,180,200,,
+H21,Paramhans Pure Veg,,Sev Masala,,,,110,,
+H21,Paramhans Pure Veg,,Mix Veg,,,,120,,
+H21,Paramhans Pure Veg,,Aloo Mutter,,,,110,,
+H21,Paramhans Pure Veg,,Aloo Jeera,,,,110,,
+H21,Paramhans Pure Veg,,Aloo Gobi,,,,110,,
+H21,Paramhans Pure Veg,,Green Peas Masala,,,,120,,
+H21,Paramhans Pure Veg,,Veg Kolhapuri,,,,140,,
+H21,Paramhans Pure Veg,,Veg Banjara,,,,140,,
+H21,Paramhans Pure Veg,,Kaju Masala,,,,180,,
+H21,Paramhans Pure Veg,,Mutter Paneer,,,,140,,
+H21,Paramhans Pure Veg,,Paneer Masala,,,,150,,
+H22,Sai Shree Veg -Non Veg,,Veg Thali,,,,65,,
+H22,Sai Shree Veg -Non Veg,,Veg Special Thali,,,,80,,
+H22,Sai Shree Veg -Non Veg,,Roti Bhaji,,,,35,,
+H22,Sai Shree Veg -Non Veg,,Chicken Thali,,,,120,,
+H22,Sai Shree Veg -Non Veg,,Chicken Chilly Thali,,,,130,,
+H22,Sai Shree Veg -Non Veg,,Chicken Fry Thali,,,,125,,
+H22,Sai Shree Veg -Non Veg,,Mutton Thali,,,,150,,
+H22,Sai Shree Veg -Non Veg,,Mutton Fry Thali,,,,160,,
+H22,Sai Shree Veg -Non Veg,,Egg Thali,,,,90,,
+H22,Sai Shree Veg -Non Veg,,Egg Chilly Thali ,,,,100,,
+H22,Sai Shree Veg -Non Veg,,Egg Burgy Thali,,,,100,,
+H22,Sai Shree Veg -Non Veg,,Bangoda Masala Thali,,,,130,,
+H22,Sai Shree Veg -Non Veg,,Surmai Fry Thali,,,,180,,
+H22,Sai Shree Veg -Non Veg,,Surmai Masala Thali,,,,180,,
+H22,Sai Shree Veg -Non Veg,,Tandoori Thali,,,,160,,
+H23,Pepper n Chillies,Chicken Kaleii Pota,Chicken Saoii,,,160,200,,
+H23,Pepper n Chillies,Chicken Bhuna,Chiken Stew (Dry),,,210,210,,
+H23,Pepper n Chillies,Egg Masala Fry,Chicken Curry,,,120,180,,
+H23,Pepper n Chillies,Mutton Bhuna,Mutton Saoii,,,260,250,,
+H23,Pepper n Chillies,Alloo Tikki,Mutton Stew (Dry),,,65,280,,
+H23,Pepper n Chillies,Veg Cutlet,Mutton Curry,,,70,230,,
+H23,Pepper n Chillies,Paneer Tikka,Mutton Keema,,,180,245,,
+H23,Pepper n Chillies,Kothimbir Vadi,Saoii Baingan,,,85,90,,
+H23,Pepper n Chillies,Cheese Corn Balls,Bhendi Masala,,,120,100,,
+H23,Pepper n Chillies,,Kadhi Pakoda,,,,90,,
+H23,Pepper n Chillies,,Papad Mangodi,,,,80,,
+H23,Pepper n Chillies,,Shev Bhaii,,,,100,,
+H23,Pepper n Chillies,,Raisthani Gatta Sabii,,,,80,,
+H23,Pepper n Chillies,,Paneer Tikka Masala,,,,180,,
+H23,Pepper n Chillies,,Paneer Kadhai,,,,160,,
+H24,Angaar Gk Chef's Mughlai ,Achari Mushroom,Veg Manchurian Gravy,,,290,250,,
+H24,Angaar Gk Chef's Mughlai ,Tandoori Mushroom,Mushroom Manchunan Gravy,,,290,270,,
+H24,Angaar Gk Chef's Mughlai ,Tandoori Aloo Mushroom,Gobi Manchurian Gravy,,,290,270,,
+H24,Angaar Gk Chef's Mughlai ,Chote Nawab,Chilli Paneer Gravy,,,250,320,,
+H24,Angaar Gk Chef's Mughlai ,Paneer Sofian,Chilli Mushroom Gravy,,,329,280,,
+H24,Angaar Gk Chef's Mughlai ,Lal Mirch Paneer Tikka,Hot Garlic Gravy,,,349,280,,
+H24,Angaar Gk Chef's Mughlai ,Chicken Manchurian,Veg Red Thai Curry,,,329,280,,
+H24,Angaar Gk Chef's Mughlai ,Chicken Shanghai,Paneer Schezwan Gravy,,,329,320,,
+H24,Angaar Gk Chef's Mughlai ,Chilli Chicken / Chicken Chilli Basil Dry,Assorted Veg Hot Garlic Sauce,,,329,270,,
+H24,Angaar Gk Chef's Mughlai ,Crispy Chicken,Chicken Schezwan Gravy,,,329,329,,
+H24,Angaar Gk Chef's Mughlai ,Hot Dragon Chicken,Chicken Hot Garitc Gravy,,,329,329,,
+H24,Angaar Gk Chef's Mughlai ,Crackling Spinach Chicken,Kung Pao Chicken Gravy,,,329,329,,
+H24,Angaar Gk Chef's Mughlai ,Sliced Oyster Sauce Chicken,Tsing Iloi Chicken Gravy,,,329,329,,
+H24,Angaar Gk Chef's Mughlai ,Black Pepper Chicken,Red Thai Curry with Steam Rice,,,329,429,,
+H25,Spice N' Ice,,Chicken Tikka Biryani.,,,,240,,
+H25,Spice N' Ice,,Chicken Biryani Harivali,,,,240,,
+H25,Spice N' Ice,,Chicken Biriyani Keshari,,,,270,,
+H25,Spice N' Ice,,Chicken Pulao,,,,220,,
+H25,Spice N' Ice,,Clucken Dopyaza,,,,220,,
+H25,Spice N' Ice,,Chicken Adrakl,,,,220,,
+H25,Spice N' Ice,,Mutton Kheema Masala,,,,240,,
+H25,Spice N' Ice,,Mutton Masala,,,,230,,
+H25,Spice N' Ice,,Mutton Adraki,,,,230,,
+H25,Spice N' Ice,,Paneer Tikka Masala,,,,160,,
+H25,Spice N' Ice,,Paneer Burji .,,,,150,,
+H25,Spice N' Ice,,Paneer Kadai/Amritsan,,,,140,,
+H25,Spice N' Ice,,Paneer Tawa / Butter Masala,,,,140,,
+H25,Spice N' Ice,,Mutter Paneer,,,,140,,
+H25,Spice N' Ice,,Palak Paneer / Corn / Mushroom,,,,140,,
+H26,Uncle's Chinese,Roast Chicken Pepper,,Brownie With Hot Chocolate Sauce,Fresh Lime Soda,269,,169,119
+H26,Uncle's Chinese,Kung Pao,,Brownie With Vanilla Ice Cream,Ice Tea Lemon/Peach,269,,169,119
+H26,Uncle's Chinese,Andhra Chilly Chicken ,,Honey Noodle With Ice Cream,Fresh Lime Water,269,,169,89
+H26,Uncle's Chinese,Pan Fried Chicken,,,Softdrinks,269,,,30
+H26,Uncle's Chinese,Chicken Lollypop,,,,269,,,
+H26,Uncle's Chinese,Chilly Sesame Chicken,,,,269,,,
+H26,Uncle's Chinese,Paneer Chilly Dry,,,,269,,,
+H26,Uncle's Chinese,Paneer Haka Style,,,,269,,,
+H26,Uncle's Chinese,Kung Pao Potato,,,,229,,,
+H26,Uncle's Chinese,Cheese Chilli Mushroom,,,,269,,,
+H26,Uncle's Chinese,Lotus Stem Chilli Basil,,,,249,,,
+H26,Uncle's Chinese,Burnt Red Pepper Paneer,,,,269,,,
+H27,Chinjabi,,MANCHOW SOUP,,,,200,,
+H27,Chinjabi,,CHICKEN WANTON SOUP,,,,200,,
+H27,Chinjabi,,BURNT GARLIC SPINACH SOUP,,,,200,,
+H27,Chinjabi,,LUNG FUNG SOUP,,,,200,,
+H27,Chinjabi,,TALUMEIN soup,,,,200,,
+H27,Chinjabi,,THUKPA SOUP,,,,200,,
+H27,Chinjabi,,SWEET CORN CHICKEN SOUP,,,,200,,
+H27,Chinjabi,,TRADITIONALSWEET CORN SOUP,,,,160,,
+H27,Chinjabi,,FLOATING WANTON soup,,,,160,,
+H27,Chinjabi,,BURNT GARUC SPINACH SOUP,,,,160,,
+H27,Chinjabi,,LUNG FUNG SOUP,,,,160,,
+H27,Chinjabi,,TALUMEIN SOUP,,,,160,,
+H27,Chinjabi,,VEG CLEAR SOUP,,,,160,,
+H28,Bheega Bites,VEG CUTLETS,DAL MAKHNI,KHEER,,180,250,100,
+H28,Bheega Bites,PAKODEY (MIX),DAL TADKA,SOOJI HALWA (SHEENA),,180,220,100,
+H28,Bheega Bites,PAKODEY (PYAZ),VEG KOFTA CURRY,SHEWAI KHEER,,150,220,180,
+H28,Bheega Bites,HONEY CHILLI FRIES,BB DHABA STYLE DAL,,,180,250,,
+H28,Bheega Bites,,ALOO MATAR,,,,220,,
+H28,Bheega Bites,,ALOO GOBI,,,,220,,
+H28,Bheega Bites,,PANEER BHURJI,,,,280,,
+H28,Bheega Bites,,PALAK PANEER,,,,250,,
+H28,Bheega Bites,,MATAR PANEER,,,,250,,
+H28,Bheega Bites,,CHICKEN MUGHLAI,,,,300,,
+H28,Bheega Bites,,CHICKEN AFGHANI,,,,300,,
+H28,Bheega Bites,,BUTTER CHICKEN,,,,320,,
+H28,Bheega Bites,,CREAM CHICKEN,,,,320,,
+H28,Bheega Bites,,CHICKEN SAACWALA,,,,300,,
+H28,Bheega Bites,,CHICKEN TIKKA MASALA,,,,350,,
+H29,Chakh Le Veg - Non Veg,Chicken Lollipop,Chicken Burnt Garlic Fried Rice,,Vanilla,160,180,,80
+H29,Chakh Le Veg - Non Veg,Chicken LoUipop Masala,Chicken Manchurian Rice,,Gulkand,170,200,,80
+H29,Chakh Le Veg - Non Veg,Chicken 65,Chicken Triple Schezwon Rice,,Cold Coffee,170,200,,70
+H29,Chakh Le Veg - Non Veg,Chicken Crispy,Chicken Tikka Masala,,Thick Coffee,170,250,,80
+H29,Chakh Le Veg - Non Veg,Chicken Tandoori,Chicken Kolhapuri,,Oreo Shake,220,190,,85
+H29,Chakh Le Veg - Non Veg,Chicken Tikka,Chicken LaJeez,,Kitkat Shake,200,250,,80
+H29,Chakh Le Veg - Non Veg,Onion Rings,Chicken Do pyaja,,Dry Fruit Shake,110,230,,100
+H29,Chakh Le Veg - Non Veg,Veg 65,Chicken Bhuna,,Mango Badam,140,220,,90
+H29,Chakh Le Veg - Non Veg,Paneer 65,Veg Hongkong Rice,,Banana Anp,170,160,,90
+H29,Chakh Le Veg - Non Veg,Gobi 65,Veg Singapore Rice,,Strawberry Dates,140,170,,90
+H29,Chakh Le Veg - Non Veg,,Veg Manchurian Rice,,,,140,,
+H29,Chakh Le Veg - Non Veg,,Ginger Fried Rice,,,,140,,
+H30,Club Nirvana,VEG CRISPY,PANEER TIKKA MASALA,,Mineral water,249,279,,50
+H30,Club Nirvana,PANEER PAHADI TIKKA,MIX VEG,,Fresh lime soda (water),299,249,,100
+H30,Club Nirvana,PANEER TIKKA,DAL TADKA,,Redbull,249,179,,50
+H30,Club Nirvana,PANEER CHILLY,EGG MASALA,,Thumps up,279,199,,299
+H30,Club Nirvana,TANDOOR VEG PLATTER,CHICKEN BUTTER MASALA,,Coke,799,349,,100
+H30,Club Nirvana,TANDOOR LOLLYPOP,CHICKEN TIKKA MASALA,,Sprite,299,299,,100
+H30,Club Nirvana,CHICKEN PERI PERI TIKKA,BUTTER CHICKEN,,Tonic water,299,299,,100
+H30,Club Nirvana,CHICKEN TIKKA,,,,299,,,
+H30,Club Nirvana,CHICKEN CHILLY,,,,279,,,
+H30,Club Nirvana,CHICKEN CRISPY,,,,299,,,
+H30,Club Nirvana,CHICKEN TANDOORI,,,,299,,,
