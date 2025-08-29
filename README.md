@@ -21,9 +21,9 @@ Restaurant Menu Viewer allows users to:
 
 ## Technology Stack
 - **Language**: C++
-- **Database**: MySQL
-- **API**: Google Maps API (optional)
-- **Libraries**: `mysqlcppconn` for MySQL connectivity
+- **Database**: MySQL Database.
+- **API**: Google Maps API (optional).
+- **Libraries**: `mysqlcppconn` for MySQL connectivity.
 
 ## Usage
 1. Run the application using:
